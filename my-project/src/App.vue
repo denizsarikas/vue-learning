@@ -5,6 +5,7 @@
       <router-link to="/about">About</router-link> |
       <router-link to="/firstform">Form</router-link> |
       <router-link to="/hwform">Homework</router-link> |
+      <router-link to="/hwform">Homework</router-link> |
     </nav>
     <router-view/>
   </div>
@@ -17,6 +18,8 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  background: #F5F5FD;
+
 }
 
 
